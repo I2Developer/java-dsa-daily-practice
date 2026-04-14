@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 package com.sree.dsa.day1;
 
 import java.util.*;
@@ -35,10 +34,3 @@ public class StringReverse {
 		sc.close();
 	}
 }
-=======
-package com.sree.dsa.day1;
-
-public class StringReverse {
-	
-}
->>>>>>> fe1b84e4c323e19a2d24276e7626b15e6da35b1e
