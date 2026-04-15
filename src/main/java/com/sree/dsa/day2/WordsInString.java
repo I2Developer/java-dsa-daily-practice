@@ -2,6 +2,14 @@ package com.sree.dsa.day2;
 
 import java.util.Scanner;
 
+/*
+Problem: Number of words in a string
+Difficulty: Easy
+Approach: Traverse through the string and split it based on space and calculate the size of formed array.
+Time Complexity: O(n)
+Space Complexity: O(n)
+*/
+
 public class WordsInString {
 	
 	public int numberOfWordsInString(String inputString) {

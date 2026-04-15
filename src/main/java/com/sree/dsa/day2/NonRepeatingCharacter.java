@@ -2,6 +2,14 @@ package com.sree.dsa.day2;
 
 import java.util.Scanner;
 
+/*
+Problem: Non-repeating characters in a string
+Difficulty: Easy
+Approach: traverse through char array and check first non-repeating character
+Time Complexity: O(n)
+Space Complexity: O(n)
+*/
+
 public class NonRepeatingCharacter {
 	
 	public char firstNonRepeatingCharacter(String inputString) {
